@@ -1,1 +1,1 @@
-# rsschool-cv
+[https://doniyorjn.github.io/rsschool-cv/cv](https://doniyorjn.github.io/rsschool-cv/cv)
