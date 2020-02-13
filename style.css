@@ -1,0 +1,42 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: floralwhite;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+img{
+    border-radius: 30px;
+    float: right;
+}
+header{
+    padding-left: 50px;
+}
+h1{
+    font-size: 70px;
+    color:indigo;
+}
+
+span, #main, footer{
+    font-weight: bold;
+    font-style: italic;
+    color: lightskyblue;
+    font-size: 30px;
+}
+#intro, .info, a{ 
+    font-size: 20px;
+    font-weight: normal;
+    color:indigo;
+}
+
+
+a {
+    color: blue ;
+    padding-left: 70px;
+}
+
+a:link{
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+}
